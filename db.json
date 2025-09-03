@@ -1,0 +1,8 @@
+{
+  "products": [
+    { "id": 1, "name": "Smartphone Zeta", "price": 1999.9, "category": "smartphones" },
+    { "id": 2, "name": "Fone Bluetooth Alpha", "price": 299.9, "category": "acessorios" },
+    { "id": 3, "name": "Notebook Pro 14", "price": 7499.0, "category": "notebooks" },
+    { "id": 4, "name": "Smartwatch Fit", "price": 899.0, "category": "vestiveis" }
+  ]
+}
